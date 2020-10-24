@@ -16,3 +16,5 @@ In der config.ini müssen folgende Angaben gemacht werden:
 - Webdriverpath = Der Pfad zum Webdriver von Chrome 
 
 Zur Aktivierung das activate_wifi.py Script ausführen. Zur Deaktivierung das deactivate_wifi.py Script ausführen.
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?hosted_button_id=PH92ZYXQ94DA2)
