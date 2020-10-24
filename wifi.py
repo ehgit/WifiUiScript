@@ -47,4 +47,4 @@ class Wifi:
         config.read('config.ini')
         configs = config['config']
         global configuration 
-        configuration = Config(configs['URL'], configs['Wifipwd'], configs['Webdriverpath'])
+        configuration = Config(configs['URL'], configs['Connectpwd'], configs['Webdriverpath'])
