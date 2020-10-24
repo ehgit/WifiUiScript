@@ -7,3 +7,10 @@ Prerequisites für eine erfolgreiche Ausführung:
 - Python installiert
 - Webdriver installiert (https://chromedriver.chromium.org/downloads)
 - Verbindung über LAN
+
+
+In der config.ini müssen folgende Angaben gemacht werden:
+
+URL = Hier die lokale IP des Routers (zB. http://192.168.0.1)
+Wifipwd = Das WLAN-Passwort
+Webdriverpath = Der Pfad zum Webdriver von Chrome 
