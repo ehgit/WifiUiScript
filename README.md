@@ -14,3 +14,5 @@ In der config.ini müssen folgende Angaben gemacht werden:
 - URL = Hier die lokale IP des Routers (zB. http://192.168.0.1)
 - Wifipwd = Das WLAN-Passwort
 - Webdriverpath = Der Pfad zum Webdriver von Chrome 
+
+Zur Aktivierung das activate_wifi.py Script ausführen. Zur Deaktivierung das deactivate_wifi.py Script ausführen.
