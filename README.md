@@ -1,5 +1,5 @@
 # WifiUiScript
-Script zu Aktivierung / Deaktivierung des Wlans in der Oberfläche einer Connect Box
+Script zur Aktivierung / Deaktivierung des Wlans in der Oberfläche einer Connect Box
 
 
 Hier könnte beispielsweise ein Raspberry Pi die Ausführung mittels eines Cron-Jobs übernehmen.
