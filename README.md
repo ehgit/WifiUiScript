@@ -11,7 +11,7 @@ Prerequisites for your success:
 
 Within the config.ini you need to add the following information:
 
-_ URL = The local IP Adress of your Router (e.g. http://192.168.0.1)
+- URL = The local IP Adress of your Router (e.g. http://192.168.0.1)
 - Connectpwd = The Password for your Connect Box
 - Webdriverpath = Path of your Webdriver for Chrome
 
