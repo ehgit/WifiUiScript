@@ -1,4 +1,21 @@
 # WifiUiScript
+English Version
+Script to activate / deactivate the Wifi in the web-userinterface of a Connect Box.
+
+For this purpose you could use a raspberry pi to automatically manage activation with a cron-job.
+Prerequisites for your success:
+- Python installed
+- Webdriver installed: (https://chromedriver.chromium.org/downloads)
+- Connection via LAN
+
+Within the config.ini you need to add the following information:
+
+_ URL = The local IP Adress of your Router (e.g. http://192.168.0.1)
+- Connectpwd = The Password for your Connect Box
+- Webdriverpath = Path of your Webdriver for Chrome
+
+German Version
+
 Script zur Aktivierung / Deaktivierung des Wlans in der Oberfläche einer Connect Box
 
 
