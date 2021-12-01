@@ -1,5 +1,6 @@
 # WifiUiScript
 English Version
+
 Script to activate / deactivate the Wifi in the web-userinterface of a Connect Box.
 
 For this purpose you could use a raspberry pi to automatically manage activation with a cron-job.
